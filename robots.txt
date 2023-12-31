@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /$
+
+Sitemap: http://dominoqq-online.jmarchini.org/sitemap.xml
